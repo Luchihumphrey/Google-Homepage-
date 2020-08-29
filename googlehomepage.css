@@ -1,0 +1,34 @@
+                .goggle {
+                    height: 100vh;
+                    justify-content: center;
+                }
+                
+                .buttons {
+                    margin-top: 3px;
+                    line-height: 2em;
+                    padding: 10px;
+                }
+                
+                .offer {
+                    text-align: center;
+                }
+                
+                .offer1 {
+                    text-align: center;
+                    font-style: normal;
+                    font-family: ariel;
+                    color: blue;
+                    font-size: small;
+                    margin-top: 5px;
+                    padding: 5px
+                }
+                
+                footer {
+                    background-color: darkgrey;
+                    margin-bottom: 3px;
+                    font-family: arial;
+                    font-size: small;
+                    line-height: 2em;
+                    word-spacing: 20px;
+                    padding-top: 8px;
+                }
